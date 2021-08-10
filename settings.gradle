@@ -1,0 +1,2 @@
+rootProject.name = "android_project_13_realmDB2"
+include ':app'
